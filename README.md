@@ -1,1 +1,2 @@
-# ECS-098-Github-Assignment
+# Name
+Katelin Ky
